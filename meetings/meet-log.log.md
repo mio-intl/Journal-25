@@ -27,3 +27,5 @@
 # -28.06.2025: No Meetings
 # -29.06.2025: No Meetings
 # -30.06.2025: No Meetings
+# -01.07.2025: No Meetings
+# -02.07.2025: No Meetings
